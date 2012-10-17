@@ -1,0 +1,5 @@
+// On stack
+Foo inst1(arg1, arg2, ...);
+
+// On heap
+Foo* inst1 = new Foo(arg1, arg2, ...);
