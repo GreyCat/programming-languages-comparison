@@ -1,0 +1,5 @@
+class Foo: public Bar {
+    Foo(Type1 arg1, Type2 arg2, ...): Bar(arg2, arg3, ...) {
+        ...
+    }
+}

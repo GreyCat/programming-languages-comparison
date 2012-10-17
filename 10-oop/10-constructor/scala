@@ -1,0 +1,3 @@
+class Foo(arg1: Type1, arg2: Type2, ...) {
+    ...
+}
