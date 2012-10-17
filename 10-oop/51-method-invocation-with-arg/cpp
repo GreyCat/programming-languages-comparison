@@ -1,0 +1,2 @@
+obj.meth(arg1, arg2, ...);
+obj->meth(arg1, arg2, ...);
