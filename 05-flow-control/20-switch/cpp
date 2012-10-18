@@ -1,0 +1,14 @@
+switch (exp) {
+case 4:
+    ....
+    break;
+case 8:
+    ....
+    break;
+case 15:
+    ....
+    break;
+default:
+    ....
+    break;
+}

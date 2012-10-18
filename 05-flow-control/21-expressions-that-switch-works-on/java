@@ -1,0 +1,4 @@
+byte, short, char, int
+Byte, Short, Character, Integer
+enum types
+String (since Java SE 7, using String#equals())
