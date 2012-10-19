@@ -1,1 +1,1 @@
-Switch fallthrough by default
+Switch fallthrough by default (if possible, allows implementation of Duff's device)
