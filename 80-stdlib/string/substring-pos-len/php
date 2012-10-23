@@ -1,0 +1,1 @@
+substr($s, $pos, $len)
