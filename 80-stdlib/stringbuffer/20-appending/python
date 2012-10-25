@@ -1,0 +1,3 @@
+buf.write('Foo')
+
+print >>buf, 'Foo'

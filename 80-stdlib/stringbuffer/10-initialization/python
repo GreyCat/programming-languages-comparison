@@ -1,0 +1,5 @@
+import StringIO
+buf = StringIO.StringIO()
+
+import cStringIO
+buf = cStringIO.StringIO()
