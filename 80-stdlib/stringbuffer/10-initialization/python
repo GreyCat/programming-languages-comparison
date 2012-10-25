@@ -1,5 +1,7 @@
+# Python implementation, slower
 import StringIO
 buf = StringIO.StringIO()
 
+# C implementation, faster
 import cStringIO
 buf = cStringIO.StringIO()
