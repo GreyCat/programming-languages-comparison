@@ -1,3 +1,2 @@
-buf.write('Foo')
-
-print >>buf, 'Foo'
+<pre>buf.write('Foo')</pre>
+<pre>print >>buf, 'Foo'</pre>

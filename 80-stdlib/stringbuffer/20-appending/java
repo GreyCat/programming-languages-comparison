@@ -1,1 +1,1 @@
-buf.append("Foo");
+<pre>buf.append("Foo");</pre>
