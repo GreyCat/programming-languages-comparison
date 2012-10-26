@@ -1,1 +1,4 @@
-sealed class Foo {}
+<pre>sealed class <b>Foo</b>
+{
+    <b>...</b>
+}</pre>
