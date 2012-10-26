@@ -1,1 +1,1 @@
-Class that can't be inherited (AKA final, sealed)
+Class <b>Foo</b> that can't be inherited (AKA final, sealed)
