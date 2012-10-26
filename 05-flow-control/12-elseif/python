@@ -1,4 +1,4 @@
-if condition1:
+<pre>if condition1:
     ...
 elif condition2:
-    ...
+    ...</pre>

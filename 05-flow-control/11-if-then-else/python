@@ -1,4 +1,4 @@
-if condition:
+<pre>if condition:
     ...
 else:
-    ...
+    ...</pre>

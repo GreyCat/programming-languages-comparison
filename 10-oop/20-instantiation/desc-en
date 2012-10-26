@@ -1,1 +1,1 @@
-New object creation (instantiation)
+Instantiation (creating an instance) of a new object of class <b>Foo</b>, passing arguments <b>arg1</b>, <b>arg2</b>, <b>arg3</b> to a constructor

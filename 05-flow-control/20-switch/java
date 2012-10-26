@@ -1,4 +1,4 @@
-switch (exp) {
+<pre>switch (exp) {
     case 4:
         ....
         break;
@@ -11,4 +11,4 @@ switch (exp) {
     default:
         ....
         break;
-}
+}</pre>

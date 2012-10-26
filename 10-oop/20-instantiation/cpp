@@ -1,5 +1,4 @@
-// On stack
-Foo inst1(arg1, arg2, ...);
-
-// On heap
-Foo* inst1 = new Foo(arg1, arg2, ...);
+<pre>// On stack
+<b>Foo</b> inst1(<b>arg1</b>, <b>arg2</b>, <b>arg3</b>);</pre>
+<pre>// On heap
+<B>Foo</b>* inst1 = new <b>Foo</b>(<b>arg1</b>, <b>arg2</b>, <b>arg3</b>);</pre>

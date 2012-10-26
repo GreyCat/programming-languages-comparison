@@ -1,4 +1,4 @@
-case exp
+<pre>case exp
 when 4
   ...
 when 8
@@ -7,4 +7,4 @@ when 15
   ...
 else
   ...
-end
+end</pre>
