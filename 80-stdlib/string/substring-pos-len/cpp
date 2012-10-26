@@ -1,1 +1,1 @@
-s.substr(pos, len)
+<code><b>s</b>.substr(<b>pos</b>, <b>len</b>)</code>

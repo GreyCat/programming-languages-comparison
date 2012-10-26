@@ -1,1 +1,1 @@
-substr($s, $pos, $len)
+<code>substr(<b>$s</b>, <b>$pos</b>, <b>$len</b>)</code>
