@@ -1,2 +1,5 @@
-.m (implementations)
-.h (interfaces)
+<ul>
+<li><code>.m</code> (implementations)</li>
+<li><code>.h</code> (interfaces)</li>
+</ul>
+
