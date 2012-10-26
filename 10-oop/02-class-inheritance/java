@@ -1,3 +1,3 @@
-class Foo extends Bar {
+<pre>class <b>Foo</b> extends <b>Bar</b> {
     ...
-}
+}</pre>

@@ -1,2 +1,2 @@
-class Foo(Bar):
-    ...
+<pre>class <b>Foo</b>(<b>Bar</b>):
+    ...</pre>

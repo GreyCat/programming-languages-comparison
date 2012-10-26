@@ -1,3 +1,3 @@
-class Foo < Bar
-  ...
-end
+<pre>class <b>Foo</b> < <b>Bar</b>
+  <b>...</b>
+end</pre>
