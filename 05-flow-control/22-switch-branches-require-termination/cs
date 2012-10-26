@@ -1,0 +1,2 @@
+<yes>
+required to be terminated with <code>break</code>, <code>goto case</code>, <code>return</code>, <code>throw</code>, so Duff's device is not possible
