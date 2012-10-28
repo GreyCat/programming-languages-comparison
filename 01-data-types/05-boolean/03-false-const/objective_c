@@ -1,5 +1,4 @@
-// For use with BOOL
-NO
-
-// For use with bool
-false
+<ul>
+<li><code>NO</code> - for use with <code>BOOL</code></li>
+<li><code>false</code> - for use with <code>bool</code></li>
+</ul>
