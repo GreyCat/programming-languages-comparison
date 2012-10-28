@@ -1,0 +1,5 @@
+<yes>
+<pre>String[] v = new String[] {
+    "foo",
+    "bar",
+};</pre>
