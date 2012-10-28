@@ -1,1 +1,1 @@
-int argc, char *argv[] in main
+<code>int argc</code>, <code>char *argv[]</code> in <code>main</code>, first argument is <code>argv[1]</code>

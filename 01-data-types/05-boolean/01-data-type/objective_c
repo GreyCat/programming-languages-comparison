@@ -1,5 +1,4 @@
-// Native Objective C typedef (implemented as signed char)
-BOOL
-
-// New type from C99 standard (implemented as int)
-bool
+<ul>
+<li><code>BOOL</code> - native Objective C typedef (implemented as signed char)</li>
+<li><code>bool</code> - new type from C99 standard (implemented as int)</li>
+</ul>

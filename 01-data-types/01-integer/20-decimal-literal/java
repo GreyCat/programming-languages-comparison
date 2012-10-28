@@ -1,2 +1,5 @@
-1234
-1_234 (since Java SE 7)
+<ul>
+<li><code>1234</code>
+<li><code>1_234</code> (since Java SE 7)</li>
+</ul>
+

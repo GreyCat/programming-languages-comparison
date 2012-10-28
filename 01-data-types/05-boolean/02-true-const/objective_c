@@ -1,5 +1,4 @@
-// For use with BOOL
-YES
-
-// For use with bool
-true
+<ul>
+<li><code>YES</code> - for use with <code>BOOL</code></li>
+<li><code>true</code> - for use with <code>bool</code></li>
+</ul>

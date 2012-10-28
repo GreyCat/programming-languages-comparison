@@ -1,3 +1,5 @@
-0x12ab
-0x12AB
-0x12_ab (since Java SE 7)
+<ul>
+<li><code>0x12ab</code></li>
+<li><code>0x12AB</code></li>
+<li><code>0x12_ab</code> (since Java SE 7)</li>
+</ul>
