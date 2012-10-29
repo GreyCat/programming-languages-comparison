@@ -1,2 +1,5 @@
-string
-std::string
+<ul>
+<li><code>string</code></li>
+<li><code>std::string</code></li>
+</ul>
+
