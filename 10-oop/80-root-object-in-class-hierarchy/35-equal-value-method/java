@@ -1,2 +1,3 @@
 <yes>
-<pre>public boolean equals(Object <b>other</b>)</pre>
+<pre>@Override
+public boolean equals(Object <b>other</b>)</pre>

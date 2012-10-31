@@ -1,2 +1,3 @@
 <yes>
-<pre>public String toString()</pre>
+<pre>@Override
+public String toString()</pre>
