@@ -1,1 +1,1 @@
-Basic constructor definition
+Basic constructor definition for a class <b>Foo</b>, taking 2 arguments: <b>arg1</b> (of type <b>Type1</b>) and <b>arg2</b> (of type <b>Type2</b>)

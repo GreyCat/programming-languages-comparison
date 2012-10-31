@@ -1,4 +1,4 @@
-class Foo:
-    def __init__(self, arg1, arg2, ...):
-        ...
-
+<pre>class <b>Foo</b>:
+    def __init__(self, <b>arg1</b>, <b>arg2</b>):
+        <b>...</b>
+</pre>

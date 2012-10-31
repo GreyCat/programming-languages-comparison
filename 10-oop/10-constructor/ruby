@@ -1,5 +1,5 @@
-class Foo
-  def initialize(arg1, arg2, ...)
-    ...
+<pre>class <b>Foo</b>
+  def initialize(<b>arg1</b>, <b>arg2</b>)
+    <b>...</b>
   end
-end
+end</pre>
