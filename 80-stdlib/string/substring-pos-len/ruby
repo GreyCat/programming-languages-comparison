@@ -1,0 +1,2 @@
+<pre>s[<b>pos</b>, <b>len</b>]</pre>
+<pre>s.slice(<b>pos</b>, <b>len</b>)</pre>

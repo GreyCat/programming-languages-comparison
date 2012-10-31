@@ -1,1 +1,2 @@
-str[pos1..pos2 - 1]
+<pre><b>s</b>[<b>pos1</b>..<b>pos2</b> - 1]</pre>
+<pre><b>s</b>.slice(<b>pos1</b>..<b>pos2</b> - 1)</pre>
