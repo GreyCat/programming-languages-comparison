@@ -1,0 +1,3 @@
+<yes>
+<pre>public override bool Equals(Object <b>other</b>)</pre>
+<pre>public static bool operator ==(Object x, Complex y)</pre>
