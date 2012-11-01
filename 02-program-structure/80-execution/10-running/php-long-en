@@ -1,0 +1,8 @@
+<p>PHP installation offers multiple ways to invoke a given
+script. Compilation of a PHP interpreter offers a choice of multiple
+SAPIs, including:</p>
+
+<ul>
+<li>CGI SAPI</li>
+<li>CLI SAPI</li>
+</ul>

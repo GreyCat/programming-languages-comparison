@@ -1,0 +1,2 @@
+Traditionally invoked using a HTTP server request, command line invocation possible with
+<pre>php <b>program.php</b></pre>
