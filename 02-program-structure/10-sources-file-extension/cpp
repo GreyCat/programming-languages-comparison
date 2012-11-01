@@ -1,2 +1,4 @@
-.cpp / .cxx / .C (sources)
-.h / .hpp / .hxx (headers)
+<ul>
+<li><code>.cpp</code> / <code>.cxx</code> / <code>.C</code> (sources)</li>
+<li><code>.h</code> / <code>.hpp</code> / <code>.hxx</code> (headers)</li>
+</ul>

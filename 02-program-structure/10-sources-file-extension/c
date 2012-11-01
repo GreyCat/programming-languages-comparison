@@ -1,2 +1,4 @@
-.c (sources)
-.h (headers)
+<ul>
+<li><code>.c</code> (sources)</li>
+<li><code>.h</code> (headers)</li>
+</ul>

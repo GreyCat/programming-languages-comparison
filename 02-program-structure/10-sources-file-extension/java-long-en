@@ -1,0 +1,7 @@
+<p>Java language specification does not enforce any particular file
+extension or even insist that sources must be stored as files - for
+example, it proposes storage in database as one of the possible
+alternatives.</p>
+
+<p>However, all major implementations imply that sources are stored in
+files with <code>.java</code> extension.</p>
