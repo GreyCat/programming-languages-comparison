@@ -1,0 +1,17 @@
+The following example demonstrates how closures act in Ruby:
+<pre>class ClosureExample
+  def setup_f1
+    a = 'foo'
+    @f1 = proc { puts a }
+    @f1.call
+  end
+
+  def use_f1
+    a = 'bar'
+    @f1.call
+  end
+end
+
+x = ClosureExample.new
+x.setup_f1 # => foo
+x.use_f1   # => foo</pre>
