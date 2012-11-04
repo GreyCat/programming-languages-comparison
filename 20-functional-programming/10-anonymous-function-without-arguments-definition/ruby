@@ -1,0 +1,13 @@
+<pre><b>f1</b> = Proc.new {
+  <b>...</b>
+}</pre>
+<pre><b>f1</b> = proc {
+  <b>...</b>
+}</pre>
+<pre><b>f1</b> = lambda {
+  <b>...</b>
+}</pre>
+<pre># Since Ruby 1.9
+<b>f1</b> = -> {
+  <b>...</b>
+}</pre>
