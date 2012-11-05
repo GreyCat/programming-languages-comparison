@@ -1,0 +1,25 @@
+<p>Official documentation and specifications on Ruby are fairly
+scarce, if existent at all. Official site's <a
+href="http://www.ruby-lang.org/en/documentation/">documentation</a>
+section doesn't host any major documentation at all, just giving out
+pointers to a external tutorials, books and <a
+href="http://www.ruby-doc.org/">ruby-doc.org</a> site that hosts core
+classes and standard library documentation, as per extracted from
+interpreter sources.</p>
+
+<p>Historically, Ruby's development wasn't based on hard
+specifications and wasn't even really documented much up to 2000, when
+David Thomas and Andrew Hunt published first major documentation /
+tutorial book on Ruby, the infamous "Programming Ruby: A Pragmatic
+Programmer's Guide" (AKA <em>Pickaxe Book</em> due to book cover
+image) [Addison Wesley, ISBN 0-201-71089-7]. Beside being a tutorial,
+it included a semi-formal language reference and documented most
+standard libraries.</p>
+
+<p>Since 2000, "Programming Ruby" undergone 3 editions:</p>
+
+<ul>
+<li>1st edition (original) was made freely available under the Open Publication License v1.0 and continues to be a major free reference to Ruby 1.8. Current primary mirror of this book is hosted at <a href="http://www.ruby-doc.org/docs/ProgrammingRuby/">ruby-doc</a>.</li>
+<li><a href="http://pragprog.com/book/ruby/programming-ruby">2nd edition</a> was published on 2004-10-01 and is available for purchase from Pragmatic Bookshelf.</li>
+<li><a href="http://pragprog.com/book/ruby3/programming-ruby-1-9">3rd edition</a> was published on 2009-04-15, is also available for purchase from Pragmatic Bookshelf and includes documentation on Ruby 1.9.</li>
+</ul>
