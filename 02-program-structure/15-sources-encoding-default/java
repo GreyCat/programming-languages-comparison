@@ -1,0 +1,5 @@
+Platform default:
+<ul>
+<li>Solaris/Linux: as per locale</li>
+<li>Windows: as per ANSI OEM codepage</li>
+</ul>

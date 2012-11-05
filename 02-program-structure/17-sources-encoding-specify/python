@@ -1,0 +1,3 @@
+Pattern in lines #1-2 of source file:
+<pre># -*- coding: <b>x</b> -*-</pre>
+<pre># vim:fileencoding=<b>x</b></pre>
