@@ -1,0 +1,6 @@
+<ul>
+<li><code>Any</code></li>
+<li><code>AnyVal</code> (for primitive values)</li>
+<li><code>AnyRef</code> (for all other objects)</li>
+</ul>
+
