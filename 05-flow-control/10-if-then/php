@@ -1,0 +1,6 @@
+<pre>if (condition) {
+    ...
+}</pre>
+<pre>if (condition):
+    ...
+endif;</pre>
