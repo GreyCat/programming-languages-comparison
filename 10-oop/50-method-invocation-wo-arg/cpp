@@ -1,2 +1,2 @@
-obj.meth();
-obj->meth();
+<pre><b>obj</b>.<b>meth</b>();</pre>
+<pre><b>obj</b>-&gt;<b>meth</b>();</pre>

@@ -1,2 +1,2 @@
-obj.meth(arg1, arg2, ...);
-obj->meth(arg1, arg2, ...);
+<pre><b>obj</b>.<b>meth</b>(<b>arg1</b>, <b>arg2</b>, <b>arg3</b>);</pre>
+<pre><b>obj</b>-&gt;<b>meth</b>(<b>arg1</b>, <b>arg2</b>, <b>arg3</b>);</pre>
