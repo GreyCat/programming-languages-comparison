@@ -1,0 +1,4 @@
+<pre>raise</pre>
+<pre>raise <b>'Custom error message'</b></pre>
+<pre>raise <b>CustomException</b>.new(<b>arg1</b>, <b>arg2</b>, <b>...</b>)</pre>
+<pre>raise <b>CustomException</b>, <b>arg1</b>, <b>caller</b></pre>

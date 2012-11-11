@@ -1,0 +1,5 @@
+<pre>begin
+  <b>...</b>
+rescue Exception
+  <b>...</b>
+end</pre>
