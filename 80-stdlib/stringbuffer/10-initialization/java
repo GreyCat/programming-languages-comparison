@@ -1,4 +1,2 @@
-<pre>// Thread-safe, slower
-StringBuffer buf = new StringBuffer();</pre>
-<pre>// Non thread-safe, faster
-StringBuilder buf = new StringBuilder();</pre>
+<pre>StringBuffer buf = new StringBuffer();</pre>
+<pre>StringBuilder buf = new StringBuilder();</pre>

@@ -1,0 +1,15 @@
+<p>
+<code>StringBuffer</code> and <code>StringBuilder</code> are two Java
+implementations of in-memory string buffers. They both implement
+<code>Serializable</code> and <code>Appendable</code> and thus can be
+used for efficient string appending and result retrieval.
+</p>
+
+<p>
+The main difference between these two is that
+<code>StringBuffer</code> is a thread-safe (performing additional
+locks to make sure nothing will break when calling append operations
+concurrently in several threads), and thus runs slightly
+slower. <code>StringBuilder</code>, on the contrary, does no extra
+checks and locks, and thus runs slightly faster.
+</p>
