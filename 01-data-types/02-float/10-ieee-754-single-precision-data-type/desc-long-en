@@ -1,0 +1,13 @@
+<p>Data type for floating point values, stored as per IEEE 754 standard,
+"single precision" (AKA <i>binary32</i>). This floating point
+representation was standardized since 1985 (in IEEE 754-1985 as
+<i>single</i>) and is used in virtually all modern computers for
+floating point operations.</p>
+
+<p>Standard specifies the following components in this data type:</p>
+
+<ul>
+<li>Sign bit: 1 bit</li>
+<li>Exponent width: 8 bits</li>
+<li>Significand precision: 23</li>
+</ul>
