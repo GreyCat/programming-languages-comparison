@@ -1,0 +1,28 @@
+<p>Multi-line comments are usually marked with start and end symbols and
+can easily span multiple lines. In modern world, they are usually used
+to quickly comment out big section of code without any help from text
+editors to include relevant single-line comments on every line:</p>
+
+<pre>statement 1
+statement 2
+/*
+statement 3
+statement 4         // even single-line comments can be commented out
+statement 5
+...
+*/
+statement 6
+...</pre>
+
+<p>Note that most languages don't allow nested multi-line comments, i.e.
+something like that:</p>
+
+<pre>/*
+statement 1    /* comment */
+statement 2
+<b>*/</b></pre>
+
+<p>will break, as parser will stop multi-line comment on first
+<code>*/</code> encountered, thus parsing "statement 2" as normal, not
+commented-out code and ultimately reporting an error finding a lone
+<code>*/</code> sign (as shown in bold).</p>

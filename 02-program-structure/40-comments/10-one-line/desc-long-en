@@ -1,0 +1,19 @@
+<p>One-line comments are useful to quickly mark whole line or part of
+the line as a comment. Typical usage scenarios include:</p>
+
+<pre># Comment prepending a section of program
+statement 1
+statement 2
+...</pre>
+
+<pre>
+statement 1                 # comment related to statement 1
+statement 2
+statement 3                 # comment related to statement 3
+...
+</pre>
+
+<p>The main drawback of this comment style is that it's hard to use to
+comment out a big section of code (one has to prepend comment symbol to
+every line), although modern text editors and IDEs mostly alleviate this
+issue.</p>
