@@ -1,0 +1,11 @@
+<p>Data type for signed integer values, strictly 32 bits (4 bytes)
+long.</p>
+
+<p>Per definition, this data type would use 31 bits for value, 1 bit for
+sign, thus allowing representation of integer numbers in the following
+range:</p>
+
+<ul>
+<li>Minimum: -2&thinsp;147&thinsp;483&thinsp;648</li>
+<li>Maximum: 2&thinsp;147&thinsp;483&thinsp;647</li>
+</ul>
