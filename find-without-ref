@@ -1,0 +1,7 @@
+#!/bin/bash -ef
+
+TOPIC=$1
+
+diff -u \
+	<(find . -name "$TOPIC" | sed 's/$/-ref/' | sort) \
+	<(find . -name "${TOPIC}-ref" | sort) | grep '^-'
