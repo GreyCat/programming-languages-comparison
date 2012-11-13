@@ -1,1 +1,1 @@
-Constructor inheritance (calling constructor of superclass)
+Constructor inheritance: constructor of class <b>Foo</b> (that inherits <b>Bar</b>) gets 3 arguments (<b>arg1</b>, <b>arg2</b> and <b>arg3</b>) and calls constructor of superclass, passing only 2 arguments to it (<b>arg2</b> and <b>arg3</b>)

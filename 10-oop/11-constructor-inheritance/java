@@ -1,6 +1,6 @@
-class Foo extends Bar {
-    Foo(Type1 arg1, Type2 arg2, ...) {
-        super(arg2, arg3, ...);
-        ...
+<pre>class <b>Foo</b> extends <b>Bar</b> {
+    <b>Foo</b>(<b>Type1</b> <b>arg1</b>, <b>Type2</b> <b>arg2</b>, <b>Type3</b> <b>arg3</b>) {
+        super(<b>arg2</b>, <b>arg3</b>);
+        <b>...</b>
     }
-}
+}</pre>
