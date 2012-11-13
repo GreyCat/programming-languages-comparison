@@ -1,0 +1,6 @@
+<pre>class <b>Foo</b> {
+    <b>Foo</b>(<b>Type1</b> <b>arg1</b>, <b>Type2</b> <b>arg2</b>)
+    {
+        <b>...</b>
+    }
+}</pre>

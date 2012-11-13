@@ -1,0 +1,8 @@
+<pre>class <b>Foo</b> : <b>Bar</b>
+{
+    public <b>Foo</b>(<b>Type1</b> <b>arg1</b>, <b>Type2</b> <b>arg2</b>, <b>Type3</b> <b>arg3</b>)
+        : base(<b>arg2</b>, <b>arg3</b>)
+    {
+        <b>...</b>
+    }
+}</pre>
