@@ -1,1 +1,1 @@
-Class inheriting multiple classes (i.e. multiple inheritance)
+Multiple inheritance: class <b>Foo</b> inheriting multiple classes <b>Bar</b> and <b>Baz</b>
