@@ -1,0 +1,21 @@
+<pre>public class Parent {
+    public void meth() {
+        System.out.println("Parent::method");
+    }
+}
+
+public class Child extends Parent {
+    @Override
+    public void meth() {
+        super.meth();
+        System.out.println("Child::method");
+    }
+}
+
+...
+
+Parent p = new Parent();
+p.meth(); // &rarr; "Parent::method"
+
+Child c = new Child();
+c.meth(); // &rarr; "Parent::method", "Child::method"</pre>
