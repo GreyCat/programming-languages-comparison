@@ -1,0 +1,2 @@
+Scala Reference, <%= r['href'] %> &mdash; <a href="http://www.scala-lang.org/docu/files/ScalaReference.pdf#<%= r['href'] %>">PDF</a>
+
