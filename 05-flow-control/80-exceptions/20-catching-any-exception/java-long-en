@@ -1,0 +1,7 @@
+<p>Unconditional catch block for any exception in Java should catch
+objects of <b>Exception</b> class. Note that <b>Exception</b> is not a
+top-level class that can be thrown (<b>Throwable</b> is), but
+normally, all other throwables (for example, subclasses of
+<b>Error</b>) are truly abnormal situations (usually something
+happened with execution environment) and they're not expected to be
+handled gracefully by a regular application.</p>
