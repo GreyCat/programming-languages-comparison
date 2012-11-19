@@ -1,6 +1,7 @@
 c	C
 objective_c	Objective-C
 cpp	C++
+erlang	Erlang
 perl	Perl
 python	Python
 java	Java
