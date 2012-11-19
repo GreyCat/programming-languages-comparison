@@ -1,0 +1,19 @@
+<p>Technically, C# specifications do not impose any hard limit on string
+length.</p>
+
+<p>However, in practice, there are several limits that apply:</p>
+
+<ul>
+
+<li>As <code>Length</code> property of a string is a 32-bit integer,
+absolute maximum would be 2&thinsp;147&thinsp;483&thinsp;647 characters.</li>
+
+<li>Microsoft's CLR allows a single object to hold 2 GiB of data maximum
+and its string implementation uses UTF-16 to store characters (2 bytes
+per character), thus practically halving this limit.</li>
+
+<li>Most VMs have issues with handling (and even allocating memory for)
+such large objects, thus effectively limiting maximum string size to 
+several 100&thinsp;000&thinsp;000s of characters.</li>
+
+</ul>
