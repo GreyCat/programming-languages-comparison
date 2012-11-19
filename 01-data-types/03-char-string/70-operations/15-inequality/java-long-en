@@ -1,0 +1,3 @@
+<p>Java does not specify a direct string inequality method. Most usual
+2-step alternative is to negate (using <code>!</code> (NOT) operator)
+result of method call that checks equality.</p>
