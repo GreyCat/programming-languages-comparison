@@ -1,0 +1,17 @@
+The following example demonstrates how closures act in Perl:
+<pre>our ($f1);
+
+sub setup_f1 {
+	my $a = 'foo';
+	$f1 = sub { print "$a\n"; };
+	&$f1;
+}
+
+sub use_f1 {
+	my $a = 'bar';
+	&$f1;
+}
+
+setup_f1(); # => foo
+use_f1();   # => foo
+</pre>

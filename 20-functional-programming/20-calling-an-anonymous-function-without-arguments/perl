@@ -1,0 +1,3 @@
+<pre>&$f1;</pre>
+<pre>&$f1();</pre>
+<pre>$f1->();</pre>
