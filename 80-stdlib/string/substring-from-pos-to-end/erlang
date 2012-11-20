@@ -1,0 +1,6 @@
+<pre>-import(string, [substr/2]).
+...
+substr(<b>S</b>, <b>Pos</b>)</pre>
+<pre>-import(string, [sub_string/2]).
+...
+sub_string(<b>S</b>, <b>Pos</b>)</pre>
