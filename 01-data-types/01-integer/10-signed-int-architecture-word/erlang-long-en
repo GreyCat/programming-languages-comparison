@@ -1,0 +1,7 @@
+<p>Erlang's small integer data types uses 1 arch-dependent word, but
+reserves 4 bits for VM use, thus making available range of:</p>
+
+<ul>
+<li>32-bit arch: -134217729 < i < 134217728 (28 bits)</li>
+<li>64-bit arch: -576460752303423489 < i < 576460752303423488 (60 bits)</li>
+</ul>
