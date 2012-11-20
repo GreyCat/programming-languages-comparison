@@ -1,1 +1,4 @@
-<code>.erl</code>
+<ul>
+<li><code>.erl</code> (sources)</li>
+<li><code>.hrl</code> (includes)</li>
+</ul>
