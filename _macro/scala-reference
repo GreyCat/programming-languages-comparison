@@ -1,2 +1,13 @@
-Scala Reference, <%= r['href'] %> &mdash; <a href="http://www.scala-lang.org/docu/files/ScalaReference.pdf#<%= r['href'] %>">PDF</a>
+<%
+href = r['href'] || (
+	prefix = case r[0].gsub('.').to_a.count
+	when 0 then 'chapter'
+	when 1 then 'section'
+	when 2 then 'subsection'
+	else raise "Unable to handle section ID: #{r[0].inspect}"
+	end
+	"#{prefix}.#{r[0]}"
+)
+%>
+Scala Reference, <%= href %> &mdash; <a href="http://www.scala-lang.org/docu/files/ScalaReference.pdf#<%= href %>">PDF</a>
 
