@@ -1,0 +1,5 @@
+<pre>object <b>Foo</b> {
+  def main(args: Array[String]) {
+    <b>...</b>
+  }
+}</pre>
