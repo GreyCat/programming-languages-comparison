@@ -1,0 +1,4 @@
+<ul>
+<li><code>.c</code> + <code>.h</code> files ⇒ object files (usually <code>.o</code> or <code>.obj</code>)</li>
+<li>object files ⇒ binary executable</li>
+</ul>

@@ -1,0 +1,4 @@
+<ul>
+<li>source (<code>.java</code>) ⇒ bytecode (<code>.class</code>)</li>
+<li>bytecode ⇒ class archives (<code>.jar</code>)</li>
+</ul>

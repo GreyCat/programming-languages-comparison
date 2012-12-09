@@ -1,0 +1,1 @@
+None, individual modules (<code>.py</code>) compiled on the fly or on demand to bytecode (<code>.pyc</code>) to reduce startup time
