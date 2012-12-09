@@ -1,0 +1,3 @@
+<pre>def <b>login</b>(<b>user</b>: <b>User</b>, <b>mode</b>: <b>Int</b> = <b>42</b>) {
+  <b>...</b>
+}</pre>
