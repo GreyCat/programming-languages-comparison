@@ -1,0 +1,12 @@
+<ul>
+<li>Initialization statements:
+	<ul>
+	<li>Values</li>
+	<li>Variables</li>
+	<li>Misc expressions</li>
+	</ul>
+</li>
+<li>Types</li>
+<li>Methods</li>
+<li>Classes, objects and traits (nested)</li>
+</ul>
