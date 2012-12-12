@@ -1,0 +1,2 @@
+<pre><b>login</b>(<b>username</b> = <B>"joe"</b>, <b>password</b> = <b>"123"</b>)</pre>
+<pre><b>login</b>(<b>password</b> = <b>"123"</b>, <b>username</b> = <b>"joe"</b>)</pre>

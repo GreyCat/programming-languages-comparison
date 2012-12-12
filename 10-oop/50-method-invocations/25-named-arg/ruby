@@ -1,0 +1,3 @@
+<na>
+Can be emulated with hashes
+<pre>login :username => 'joe', :password => '123'</pre>
