@@ -1,0 +1,3 @@
+<pre>class <b>Student</b> extends <b>User</b> with <b>Stats</b> {
+  <b>...</b>
+}</pre>
