@@ -1,0 +1,4 @@
+<pre>class <b>Student</b>
+  include <b>Stats</b>
+  <b>...</b>
+end</pre>
