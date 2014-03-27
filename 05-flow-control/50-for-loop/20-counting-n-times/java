@@ -1,0 +1,3 @@
+<pre>for (int <b>i</b> = 0; <b>i</b> &lt; <b>n</b>; <b>i</b>++) {
+    ...
+}</pre>
