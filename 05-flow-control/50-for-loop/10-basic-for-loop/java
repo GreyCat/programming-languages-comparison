@@ -1,0 +1,3 @@
+<pre>for (<b>setup</b>; <b>condition</b>; <b>increment</b>) {
+    ...
+}</pre>
