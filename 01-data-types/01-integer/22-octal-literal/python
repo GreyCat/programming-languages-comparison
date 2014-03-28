@@ -1,1 +1,5 @@
-<code>0644</code>
+<ul>
+<li><code>0644</code></li>
+<li><code>0o644</code></li>
+<li><code>0O644</code></li>
+</ul>
