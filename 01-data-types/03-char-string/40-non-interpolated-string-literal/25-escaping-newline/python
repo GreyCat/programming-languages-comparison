@@ -1,0 +1,6 @@
+<pre>'<b>foo</b>\n<b>bar</b>'</pre>
+<pre>"<b>foo</b>\n<b>bar</b>"</pre>
+<pre>'''<b>foo</b>
+<b>bar</b>'''</pre>
+<pre>"""<b>foo</b>
+<b>bar</b>"""</pre>
