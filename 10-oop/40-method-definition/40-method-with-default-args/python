@@ -1,0 +1,3 @@
+<pre>def <b>login</b>(self, <b>user</b>, <b>mode</b> = <b>42</b>):
+    <b>...</b>
+</pre>
