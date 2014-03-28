@@ -1,0 +1,4 @@
+<pre>'I<b>\'</b>ll say <b>"</b>cheese<b>"</b>.'</pre>
+<pre>"I<b>'</b>ll say <b>\"</b>cheese<b>\"</b>."</pre>
+<pre>'''I<b>'</b>ll say <b>"</b>cheese<b>"</b>.'''</pre>
+<pre>"""I<b>'</b>ll say <b>"</b>cheese<b>"</b>."""</pre>
