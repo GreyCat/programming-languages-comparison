@@ -1,0 +1,13 @@
+<p>Java has no built-in mechanism for optional arguments with default
+values. However, it's possible to emulate this behavior by defining
+two methods with the same name and different arguments, making one of
+them call the other, passing mandatory parameters and supplying
+default values, i.e.: </p>
+
+<pre>void <b>login</b>(<b>User</b> <b>user</b>) {
+    login(user, <b>42</b>);
+}
+
+void <b>login</b>(<b>User</b> <b>user</b>, int <b>mode</b>) {
+    <b>...</b>
+}</pre>
