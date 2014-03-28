@@ -1,0 +1,3 @@
+<p>While this may look like a runtime string concatenation, this
+operation would be seamlessly performed by a compiler, resulting
+in a solid single string in bytecode.</p>
