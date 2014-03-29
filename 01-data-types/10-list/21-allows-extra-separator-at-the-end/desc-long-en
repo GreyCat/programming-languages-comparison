@@ -1,0 +1,5 @@
+<p>If yes, it makes appending new values to list much easier: one can
+just add the new value after the last line, keeping it intact. New
+value is added again with a separator at the end, ready to repeat this
+process infinitely. This practice reduces diffs and makes code change
+history easier to read.</p>
