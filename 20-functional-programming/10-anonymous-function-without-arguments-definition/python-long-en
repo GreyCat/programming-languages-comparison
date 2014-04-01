@@ -1,0 +1,13 @@
+<p>Using <code>lambda</code> syntax allows to use only one
+expression-style value for function definition (i.e. no multiple
+statements). The following two expressions are equivalent:</p>
+
+<pre>def f1(): return <b>...</b></pre>
+<pre>f1 = lambda: <b>...</b></pre>
+
+<p>That is, <code>lambda</code> syntax implies invisible
+<code>return</code> statement.</p>
+
+<p>Full-fledged <code>def</code> syntax is more powerful, but requires
+one to give function a name (technically, bind the function to a
+variable).</p>
