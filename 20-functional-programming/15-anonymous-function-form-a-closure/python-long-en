@@ -1,0 +1,16 @@
+The following example demonstrates how closures act in Python:
+<pre>def setup_f1():
+    global f1
+    a = 'foo'
+    def f1():
+        print a
+    f1()
+
+def use_f1():
+    global f1
+    a = 'bar'
+    f1()
+
+setup_f1() # => foo
+use_f1()   # => foo
+</pre>
