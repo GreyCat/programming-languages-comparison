@@ -1,0 +1,19 @@
+<p>Full form (first one), using <code>#{...}</code> syntax, can be
+used to reference any expression, including normal local variables
+with plain names.</p>
+
+<p>Short forms (all the others) can be used to interpolate
+unambiguously non-local variables, that is:</p>
+
+<ul>
+<li><code>@foo</code> — instance variables</li>
+<li><code>@@foo</code> — class variables</li>
+<li><code>$foo</code> — global variables</li>
+</ul>
+
+<p>However, note that using any extra characters besides variable
+names won't work with short form, for example, referencing an array
+element 42 from instance variable <code>@foo</code> has to be written
+in full form only — <code>#{@foo[42]}</code>. Using
+<code>#@foo[42]</code> would be interpreted as reference to whole
+array <code>@foo</code> and then literal '[42]'.</p>

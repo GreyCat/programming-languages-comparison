@@ -1,0 +1,4 @@
+<pre>"We do #{<b>foo</b>}"</pre>
+<pre>"We do #<b>@foo</b>"</pre>
+<pre>"We do #<b>@@foo</b>"</pre>
+<pre>"We do #<b>$foo</b>"</pre>
