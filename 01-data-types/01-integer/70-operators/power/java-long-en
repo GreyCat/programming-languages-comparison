@@ -1,0 +1,5 @@
+<p>Java does not have any built-in power operator or function
+operating on integers. The closest alternative is using
+<code>Math.pow</code> function that operates on <code>double</code>s,
+and then converting result back to require integer type
+(<code>int</code> or <code>long</code>).</p>
