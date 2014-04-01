@@ -1,0 +1,1 @@
+Method named <b>login</b> without two arguments — <b>user</b> (type <b>User</b>) and <b>mode</b> (integer), returning boolean result

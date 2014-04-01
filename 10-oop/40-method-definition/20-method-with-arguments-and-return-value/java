@@ -1,0 +1,3 @@
+<pre>boolean <b>login</b>(<b>User</b> <b>user</b>, int <b>mode</b>) {
+    <b>...</b>
+}</pre>
