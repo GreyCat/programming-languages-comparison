@@ -1,0 +1,13 @@
+<p>Ruby doesn't include any direct equivalent class of
+sealing/finalization clauses. However, this behavior can be emulated
+with the following method:</p>
+
+<pre>class Foo
+  def self.inherited(subclass)
+    raise "Class #{subclass} cannot be derived from class #{self}"
+  end
+end
+</pre>
+
+<p>It works by defining a method that would be ran on any attempt to
+inherit anything from a given class and would raise an exception.</p>
