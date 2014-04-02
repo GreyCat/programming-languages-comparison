@@ -1,0 +1,5 @@
+<pre>class <b>Student</b>
+{
+    use <b>Stats</b>;
+    ...
+}</pre>
