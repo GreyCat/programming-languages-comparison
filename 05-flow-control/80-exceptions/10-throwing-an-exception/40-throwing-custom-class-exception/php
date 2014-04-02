@@ -1,0 +1,1 @@
+<pre>throw new <b>CustomException</b>(<b>arg1</b>, <b>arg2</b>)</pre>

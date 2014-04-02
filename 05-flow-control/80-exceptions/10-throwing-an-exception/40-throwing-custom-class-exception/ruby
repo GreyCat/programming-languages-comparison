@@ -1,0 +1,2 @@
+<pre>raise <b>CustomException</b>.new(<b>arg1</b>, <b>arg2</b>)</pre>
+<pre>raise <b>CustomException</b>, <b>arg1</b>, <b>caller</b></pre>

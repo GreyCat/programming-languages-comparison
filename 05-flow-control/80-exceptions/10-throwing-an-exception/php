@@ -1,3 +1,0 @@
-<pre>throw new Exception();</pre>
-<pre>throw new Exception(<b>'Custom error message'</b>);</pre>
-<pre>throw new <b>CustomException</b>(<b>arg1</b>, <b>arg2</b>, <b>...</b>)</pre>

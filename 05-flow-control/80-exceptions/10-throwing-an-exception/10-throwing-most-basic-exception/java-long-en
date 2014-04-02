@@ -1,0 +1,20 @@
+<p>Using <code>throw null</code> compiles and throws a
+<code>NullPointerException</code> when the control flow reaches the
+throw statement. As <code>NullPointerException</code> is a subclass of
+<code>RuntimeException</code>, you don't really have to add anything
+extra to method signatures.</p>
+
+<p>Throwing <code>new Exception()</code> without parameters designates
+throwing a checked exception, i.e. you also must add <code>throws
+Exception</code> to method signature.</p>
+
+<p>Throwing <code>new RuntimeException()</code> throws so-called
+"runtime exception", which is non-checked exception, so it doesn't
+affect method signatures in any way.</p>
+
+<p>For practical purposes, for quick-n-dirty "stop right here"
+debugging purposes, <code>throw null</code> is usually the best
+choice, although its results could be confused with other potentially
+possible <code>NullPointerException</code>s. If that's the case,
+probably <code>throw new RuntimeException()</code> would be the second
+best choice.</p>

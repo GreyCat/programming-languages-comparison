@@ -1,0 +1,2 @@
+<pre>throw new Exception("<b>Custom error message</b>");</pre>
+<pre>throw new RuntimeException("<b>Custom error message</b>");</pre>
