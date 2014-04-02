@@ -1,0 +1,4 @@
+<pre><b>n</b>.times { |<b>i</b>| <b>...</b> }</pre>
+<pre><b>n</b>.times do |<b>i</b>|
+  <b>...</b>
+end</pre>
