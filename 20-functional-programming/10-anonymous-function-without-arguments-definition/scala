@@ -1,0 +1,4 @@
+<pre>val <b>f1</b> = () => <b>...</b></pre>
+<pre>val <b>f1</b> = new Function0[String] {
+  def apply(): String = <b>...</b>
+}</pre>
