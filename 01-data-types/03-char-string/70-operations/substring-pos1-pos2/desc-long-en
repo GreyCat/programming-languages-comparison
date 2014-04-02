@@ -1,0 +1,4 @@
+<p>Obviously, if this operation is missing in language, but a function
+<b>f</b> that extracts substring starting with position <b>pos</b> and
+of length <b>len</b> is available, then it can be emulated with a
+call <code>f(<b>pos1</b>, <b>pos2 - pos1</b>)</code></p>

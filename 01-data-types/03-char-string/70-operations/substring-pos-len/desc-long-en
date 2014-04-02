@@ -1,0 +1,5 @@
+<p>Obviously, if this operation is missing in language, but a function
+<b>f</b> that extracts substring starting with position <b>pos1</b>
+(inclusive) and ending with position <b>pos2</b> (exclusive) is
+available, then it can be emulated with a call <code>f(<b>pos</b>,
+<b>pos + len</b>)</code></p>
