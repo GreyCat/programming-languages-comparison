@@ -1,0 +1,2 @@
+#!/bin/sh
+find -name java-ref | xargs sed -i 's,^http://docs.oracle.com/javase/specs/jls/se7/html/jls-.*\.html#jls-\([0-9.]*\)$,{{java-language-specification|\1}},'
