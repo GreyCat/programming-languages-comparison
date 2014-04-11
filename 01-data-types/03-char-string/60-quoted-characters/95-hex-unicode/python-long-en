@@ -1,0 +1,1 @@
+This one works in Unicode strings (such as ones defined with literal <code>u"..."</code>)
