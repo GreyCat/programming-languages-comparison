@@ -1,0 +1,5 @@
+<%
+section = r[0].split(/[.]/).first
+%>
+<a href="http://docs.oracle.com/javase/specs/jls/se7/html/jls-<%= section %>.html#jls-<%= r[0] %>">Java Language Specification, <%= r[0] %></a>
+
