@@ -1,0 +1,1 @@
+Generic comparison operation for two strings <b>a</b> and <b>b</b> (returns 0 if equal, &lt;0 if <b>a</b>&lt;<b>b</b>, &gt;0 if <b>a</b>&gt;<b>b</b>)
