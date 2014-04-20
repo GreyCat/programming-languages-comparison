@@ -1,4 +1,4 @@
-http://www.ruby-doc.org/core-1.9.3/Proc.html
+{{ruby-doc-core|Proc}}
 http://www.ruby-doc.org/docs/ProgrammingRuby/html/ref_m_kernel.html#Kernel.proc
 http://www.ruby-doc.org/docs/ProgrammingRuby/html/ref_m_kernel.html#Kernel.lambda
 http://www.ruby-doc.org/docs/ProgrammingRuby/html/ref_c_proc.html#Proc.new
