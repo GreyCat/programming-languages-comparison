@@ -1,0 +1,12 @@
+<%
+method = nil
+case r[1]
+when /^method-i-(.*?)$/
+  method = $1
+  method.gsub!(/-?([0-9A-F]{2})/) { $1.to_i(16).chr }
+  method.gsub!(/</, '&lt;')
+  method.gsub!(/>/, '&gt;')
+  method = ", instance method #{method}"
+end
+%>
+<a href="http://www.ruby-doc.org/core-1.9.3/<%= r[0] %>.html<%= '#' + r[1] if r[1] %>">Ruby core documentation, <%= r[0] %><%= method if method %></a>
