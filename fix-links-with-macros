@@ -2,6 +2,7 @@
 
 def fix!(s)
   s.gsub!(/^http:\/\/docs\.oracle\.com\/javase\/specs\/jls\/se7\/html\/jls-.*\.html\#jls-([0-9.]*)$/, '{{java-language-specification|\1}}')
+  s.gsub!(/^http:\/\/(?:www\.)?ruby-doc.org\/core-[0-9.]+\/(.*?)\.html$/, '{{ruby-doc-core|\1}}')
   s.gsub!(/^http:\/\/(?:www\.)?ruby-doc.org\/core-[0-9.]+\/(.*?)\.html#(.*?)$/, '{{ruby-doc-core|\1|\2}}')
 end
 
