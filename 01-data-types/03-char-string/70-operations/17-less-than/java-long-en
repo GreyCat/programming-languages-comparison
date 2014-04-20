@@ -1,0 +1,3 @@
+<p>Java does not specify a direct string less-than operation. The most
+obvious way is to use <code>compareTo</code> method and then check
+that it returned value less than 0.</p>
