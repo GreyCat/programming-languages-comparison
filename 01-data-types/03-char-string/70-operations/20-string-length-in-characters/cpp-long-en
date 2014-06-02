@@ -1,0 +1,7 @@
+<p>Returned value depends on data type. For example, if used on
+<code>string</code> datatype (which uses 8-bit characters), returns
+number of 8-bit characters (<code>char_t</code>), i.e. number of
+bytes; if used on <code>u16string</code>, returns number of 16-bit
+characters, etc.</p>
+
+<p><code>size</code> and <code>length</code> are synonyms.</p>
