@@ -1,0 +1,1 @@
+<p>Full class names with namespaces are <code>std::cout</code> and <code>std::wcout</code> respectively.</p>

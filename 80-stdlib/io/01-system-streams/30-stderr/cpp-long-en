@@ -1,0 +1,1 @@
+<p>Full class names with namespaces are <code>std::cerr</code> and <code>std::wcerr</code> respectively.</p>

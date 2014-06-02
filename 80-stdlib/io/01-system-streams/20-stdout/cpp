@@ -1,2 +1,4 @@
-<pre>cout</pre>
-<pre>std::cout</pre>
+<ul>
+<li><code>cout</code> (8-bit)</li>
+<li><code>wcout</code> (wide char)</li>
+</ul>

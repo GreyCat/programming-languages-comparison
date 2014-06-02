@@ -1,2 +1,4 @@
-<pre>cin</pre>
-<pre>std::cin</pre>
+<ul>
+<li><code>cin</code> (8-bit)</li>
+<li><code>wcin</code> (wide char)</li>
+</ul>

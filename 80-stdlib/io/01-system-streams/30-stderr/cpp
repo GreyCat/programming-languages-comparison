@@ -1,2 +1,4 @@
-<pre>cerr</pre>
-<pre>std::cerr</pre>
+<ul>
+<li><code>cerr</code> (8-bit)</li>
+<li><code>wcerr</code> (wide char)</li>
+</ul>
