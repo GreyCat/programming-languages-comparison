@@ -1,5 +1,4 @@
 <ul>
-<li><code>int</code></li>
-<li><code>Integer</code></li>
-<li><code>java.lang.Integer</code></li>
+<li><code>int</code> (primitive type)</li>
+<li><code>Integer</code> (object)</li>
 </ul>
