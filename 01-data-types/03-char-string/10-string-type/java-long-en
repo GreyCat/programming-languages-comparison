@@ -1,0 +1,5 @@
+<p>Full class name with all packages is
+<code>java.lang.String</code>. According to Java language conventions,
+everywhere in <code>java.lang</code> package is automatically
+imported, thus it can be used everywhere as just <code>String</code>
+without any additional imports, unless there is ambiguility.  </p>
