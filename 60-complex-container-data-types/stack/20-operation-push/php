@@ -1,0 +1,2 @@
+<pre><b>$c</b>[] = <b>$x</b>;</pre>
+<pre>array_push(<b>$c</b>, <b>$x</b>);</pre>
