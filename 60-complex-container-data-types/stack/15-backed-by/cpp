@@ -1,0 +1,5 @@
+<ul>
+<li><code>deque</code></li> (default)
+<li><code>vector</code></li>
+<li><code>list</code></li>
+</ul>
