@@ -1,0 +1,6 @@
+<pre>class <b>Foo</b> < <b>Bar</b>
+  def initialize(<b>arg1</b>, <b>arg2</b>, <b>arg3</b>) {
+    super(<b>arg2</b>, <b>arg3</b>)
+    <b>...</b>
+  end
+end</pre>
