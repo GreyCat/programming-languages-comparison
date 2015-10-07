@@ -1,0 +1,13 @@
+<p>Invocation using <b>.</b> operator is used when <b>obj</b> is a
+value object (i.e. its type specification is like <b>Object
+obj</b>).</p>
+
+<p>Invocation using <b>-&gt;</b> operator is used when <b>obj</b> is a
+reference to an object (i.e. its type specification is like <b>Object*
+obj</b>). Using <b>-&gt;</b> is a syntactic sugar that is exactly
+equal to dereferencing a reference and calling method using <b>.</b>
+syntax:
+
+<pre>
+(*<b>obj</b>).<b>meth</b>();
+</pre>
