@@ -1,0 +1,7 @@
+<p>This kind of notation in sources is converted to real Unicode
+characters by preprocessor. The compiler (i.e. language parser itself)
+doesn't know anything about <code>\u</code> notation and just treats
+these characters as if they were entered as proper Unicode characters
+in source files. This isn't usually an issue, but it makes impossible
+to escape control characters (for example, newline or quotes) this
+way.</p>
