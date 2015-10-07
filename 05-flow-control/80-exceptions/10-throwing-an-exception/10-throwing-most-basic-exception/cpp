@@ -1,0 +1,8 @@
+<pre>throw;</pre>
+<pre>#include &lt;exception&gt;
+...
+std::terminate();</pre>
+<pre>#include &lt;cstdlib&gt;
+...
+std::abort();</pre>
+

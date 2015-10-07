@@ -1,0 +1,7 @@
+<p>Normally, <code>throw</code> without argument should be used to
+rethrow currently handled exception, but if it's called outside catch
+context, it executes <code>std::terminate()</code>, which effectively
+stops execution with abort, usually dumping core.</p>
+
+<p>Alternatively, one can run <code>std::terminate()</code> or
+<code>std::abort()</code> directly.</p>

@@ -1,0 +1,2 @@
+<pre>throw std::runtime_error("<b>Custom error message</b>");</pre>
+
