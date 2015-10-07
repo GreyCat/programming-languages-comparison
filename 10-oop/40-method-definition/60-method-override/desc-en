@@ -1,1 +1,1 @@
-Method named <b>login</b> (without arguments and return value) that overrides a method in parent class
+Method named <b>login</b> (without arguments and return value) that overrides an existing non-abstract method in parent class
