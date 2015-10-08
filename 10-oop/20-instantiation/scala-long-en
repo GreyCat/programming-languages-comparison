@@ -1,0 +1,5 @@
+<p>Normal classes in Scala are instantiated with <code>new</code> keyword.</p>
+
+<p>Case class definition generates default implementation of
+<code>apply</code> method which makes it possible to instantiate them
+without <code>new</code> keyword.</p>
