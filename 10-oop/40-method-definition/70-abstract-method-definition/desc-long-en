@@ -1,0 +1,4 @@
+<p><em>Abstract</em> methods are method declarations without a body (i.e.
+without a real implementation). They are usually used to define parts of
+interface, which can be implemented in several different ways by classes
+that implement it.</p>
