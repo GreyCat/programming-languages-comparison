@@ -1,0 +1,5 @@
+<p><code>strcmp</code> function is a standard way to compare classic
+null-terminated C strings.</p>
+
+<p><code>wcscmp</code> function is the same for wide strings (composed of
+<code>wchar_t</code> characters).</p>

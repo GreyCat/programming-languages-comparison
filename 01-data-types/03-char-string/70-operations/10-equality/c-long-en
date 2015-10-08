@@ -1,0 +1,8 @@
+<p>C does not have direct string equality operator.</p>
+
+<p><code>strcmp</code> function is a standard way to compare classic
+null-terminated C strings. If it returns 0, it means that strings are
+equal.</p>
+
+<p><code>wcscmp</code> function is the same for wide strings (composed of
+<code>wchar_t</code> characters).</p>
