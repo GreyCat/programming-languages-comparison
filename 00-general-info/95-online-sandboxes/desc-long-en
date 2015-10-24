@@ -1,0 +1,4 @@
+These sites allow to submit simple code fragments in a designated
+language, compile and run them, then show the output in the browser. It
+comes very handy for learning / experimenting purposes, as it eliminates
+the need to install compiler / interpreter / VM / IDE locally.
