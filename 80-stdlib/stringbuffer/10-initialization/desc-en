@@ -1,1 +1,1 @@
-Initialization of in-memory string buffer
+Initialize in-memory string buffer <b>buf</b>
