@@ -2,6 +2,4 @@
 def <b>login</b>
   raise NotImplementedError
 end</pre>
-<pre>require 'abstractmethod'
-<b>...</b>
-abstract_method :<b>login</b></pre>
+<pre><div class="for-header">require 'abstractmethod'</div>abstract_method :<b>login</b></pre>

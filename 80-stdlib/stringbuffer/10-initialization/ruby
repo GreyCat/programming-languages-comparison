@@ -1,2 +1,1 @@
-<pre>require 'stringio'
-buf = StringIO.new</pre>
+<pre><div class="for-header">require 'stringio'</div><b>buf</b> = StringIO.new</pre>
