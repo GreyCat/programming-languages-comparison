@@ -1,6 +1,2 @@
-<pre># Python implementation, slower
-import StringIO
-buf = StringIO.StringIO()</pre>
-<pre># C implementation, faster
-import cStringIO
-buf = cStringIO.StringIO()</pre>
+<pre><div class="for-header">import StringIO</div><b>buf</b> = StringIO.StringIO()</pre>
+<pre><div class="for-header">import cStringIO</div><b>buf</b> = cStringIO.StringIO()</pre>

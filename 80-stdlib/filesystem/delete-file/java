@@ -1,7 +1,3 @@
-<pre>import java.io.File;
-<b>...</b>
-new File("<b>foo.txt</b>").delete();</pre>
-<pre>import java.nio.file.FileSystems;
-import java.nio.file.Files;
-<b>...</b>
-Files.delete(FileSystems.getDefault().getPath("<b>foo.txt</b>"));</pre>
+<pre><div class="for-header">import java.io.File;</div>new File("<b>foo.txt</b>").delete();</pre>
+<pre><div class="for-header">import java.nio.file.FileSystems;
+import java.nio.file.Files;</div>Files.delete(FileSystems.getDefault().getPath("<b>foo.txt</b>"));</pre>
