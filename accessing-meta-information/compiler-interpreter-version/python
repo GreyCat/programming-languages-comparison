@@ -1,0 +1,4 @@
+<pre><div class="for-header">import sys</div>sys.version</pre>
+<pre><div class="for-header">import sys</div>sys.version_info</pre>
+<pre><div class="for-header">import sys</div>sys.api_version</pre>
+<pre><div class="for-header">import sys</div>sys.hexversion</pre>
