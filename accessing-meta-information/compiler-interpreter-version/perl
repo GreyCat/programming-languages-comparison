@@ -1,0 +1,4 @@
+<pre>$]</pre>
+<pre><div class="for-header">use English;</div>$OLD_PERL_VERSION</pre>
+<pre>$^V</pre>
+<pre><div class="for-header">use English;</div>$PERL_VERSION</pre>
