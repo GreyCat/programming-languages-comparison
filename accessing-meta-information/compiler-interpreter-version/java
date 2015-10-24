@@ -1,0 +1,5 @@
+<pre>System.getProperty("java.version")</pre>
+<pre>System.getProperty("java.vm.version")</pre>
+<pre>System.getProperty("java.specification.version")</pre>
+<pre>Runtime.class.getPackage().getImplementationVersion()</pre>
+<pre>Runtime.class.getPackage().getSpecificationVersion()</pre>
