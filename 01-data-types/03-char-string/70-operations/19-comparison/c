@@ -1,6 +1,2 @@
-<pre>#include &lt;string.h&gt;
-<b>...</b>
-strcmp(<b>a</b>, <b>b</b>)</pre>
-<pre>#include &lt;wchar.h&gt;
-<b>...</b>
-wcscmp(<b>a</b>, <b>b</b>)</pre>
+<pre><div class="for-header">#include &lt;string.h&gt;</div>strcmp(<b>a</b>, <b>b</b>)</pre>
+<pre><div class="for-header">#include &lt;wchar.h&gt;</div>wcscmp(<b>a</b>, <b>b</b>)</pre>

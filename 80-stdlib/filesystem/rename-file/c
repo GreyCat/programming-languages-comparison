@@ -1,3 +1,1 @@
-<pre>#include &lt;stdio.h&gt;
-<b>...</b>
-rename("<b>foo.txt</b>", "<b>bar.txt</b>");</pre>
+<pre><div class="for-header">#include &lt;stdio.h&gt;</div>rename("<b>foo.txt</b>", "<b>bar.txt</b>");</pre>

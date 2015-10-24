@@ -1,8 +1,3 @@
 <pre>throw;</pre>
-<pre>#include &lt;exception&gt;
-...
-std::terminate();</pre>
-<pre>#include &lt;cstdlib&gt;
-...
-std::abort();</pre>
-
+<pre><div class="for-header">#include &lt;exception&gt;</div>std::terminate();</pre>
+<pre><div class="for-header">#include &lt;cstdlib&gt;</div>std::abort();</pre>

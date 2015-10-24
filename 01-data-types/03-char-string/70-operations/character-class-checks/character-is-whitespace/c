@@ -1,3 +1,1 @@
-<pre>#include &lt;ctype.h&gt;
-<b>...</b>
-isspace(<b>c</b>)</pre>
+<pre><div class="for-header">#include &lt;ctype.h&gt;</div>isspace(<b>c</b>)</pre>

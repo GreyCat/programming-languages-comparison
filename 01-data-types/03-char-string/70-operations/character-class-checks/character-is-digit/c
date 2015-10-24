@@ -1,3 +1,1 @@
-<pre>#include &lt;ctype.h&gt;
-<b>...</b>
-isdigit(<b>c</b>)</pre>
+<pre><div class="for-header">#include &lt;ctype.h&gt;</div>isdigit(<b>c</b>)</pre>
