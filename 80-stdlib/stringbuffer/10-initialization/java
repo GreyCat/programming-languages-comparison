@@ -1,2 +1,2 @@
-<pre>StringBuffer buf = new StringBuffer();</pre>
-<pre>StringBuilder buf = new StringBuilder();</pre>
+<pre>StringBuffer <b>buf</b> = new StringBuffer();</pre>
+<pre>StringBuilder <b>buf</b> = new StringBuilder();</pre>
