@@ -1,0 +1,4 @@
+<%
+sect = r[0]
+%>
+ECMAScript 2015 Language Specification (ECMA-262 standard), section <%= sect %> &mdash; <a href="http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf">PDF</a>
