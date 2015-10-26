@@ -1,1 +1,1 @@
-Conditional execution with 2 alternatives (if-then-else statement)
+Conditional execution with 2 alternatives: if <b>cond</b> is true, run <b>block1</b>, otherwise run <b>block2</b> (if-then-else statement)

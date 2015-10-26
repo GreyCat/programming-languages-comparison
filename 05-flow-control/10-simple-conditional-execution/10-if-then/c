@@ -1,3 +1,3 @@
-<pre>if (condition) {
-    ...
+<pre>if (<b>cond</b>) {
+    <b>block</b>
 }</pre>

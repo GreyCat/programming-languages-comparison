@@ -1,5 +1,5 @@
-<pre>if (condition) {
-    ...
+<pre>if (<b>cond</b>) {
+    <b>block1</b>
 } else {
-    ...
+    <b>block2</b>
 }</pre>
