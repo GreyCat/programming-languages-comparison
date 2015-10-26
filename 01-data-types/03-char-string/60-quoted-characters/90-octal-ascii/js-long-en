@@ -1,0 +1,4 @@
+<p>Note that actually this syntax uses not ASCII codes, but Latin1 codes,
+which is a superset of ASCII and corresponds to Unicode character range
+[0..255]. For example, one can use <code>\260</code> to get degree sign
+<code>°</code>, which is also a Unicode character U+00B0 (260 octal).</p>
