@@ -1,0 +1,2 @@
+<pre><div class="for-header">import os</div>os.remove("<b>foo.txt</b>")</pre>
+<pre><div class="for-header">import os</div>os.unlink("<b>foo.txt</b>")</pre>
