@@ -1,1 +1,1 @@
-Any data type, comparison is done using loose comparsion (<code>==</code> operator)
+Any data type, comparison is done using loose comparison (<code>==</code> operator)
