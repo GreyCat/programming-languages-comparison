@@ -1,0 +1,2 @@
+<pre>File.exist?('<b>foo.txt</b>')</pre>
+<pre>FileTest.exist?('<b>foo.txt</b>')</pre>
