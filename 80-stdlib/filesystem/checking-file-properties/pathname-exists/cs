@@ -1,0 +1,1 @@
+<pre><div class="for-header">using System.IO;</div>File.Exists("<b>foo.txt</b>")</pre>
