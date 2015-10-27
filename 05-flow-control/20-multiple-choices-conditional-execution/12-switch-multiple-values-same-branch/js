@@ -1,0 +1,7 @@
+<pre>switch (<b>exp</b>) {
+    case 4:
+    case 8:
+        ...
+        break;
+    ...
+}</pre>

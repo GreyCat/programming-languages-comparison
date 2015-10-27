@@ -1,0 +1,14 @@
+<pre>switch (<b>exp</b>) {
+case 4:
+    ...
+    break;
+case 8:
+    ...
+    break;
+case 15:
+    ...
+    break;
+default:
+    ...
+    break;
+}</pre>

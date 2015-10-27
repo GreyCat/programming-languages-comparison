@@ -1,0 +1,1 @@
+Any data type, comparison is done using strict comparison (<code>==</code> operator)
