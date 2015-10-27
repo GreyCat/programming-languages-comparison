@@ -1,0 +1,2 @@
+<pre><div class="for-header">#include &lt;string.h&gt;</div>strlen(<b>s</b>)</pre>
+<pre><div class="for-header">#include &lt;wchar.h&gt;</div>wcslen(<b>s</b>)</pre>
