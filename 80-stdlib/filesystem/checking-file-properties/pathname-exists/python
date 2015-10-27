@@ -1,1 +1,1 @@
-<pre><div class="for-header">import os.path</div>os.path.exists("foo.txt")</pre>
+<pre><div class="for-header">import os.path</div>os.path.exists("<b>foo.txt</b>")</pre>

@@ -1,1 +1,1 @@
-<pre>file_exists("foo.txt")</pre>
+<pre>file_exists("<b>foo.txt</b>")</pre>
