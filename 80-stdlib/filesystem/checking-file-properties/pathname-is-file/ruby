@@ -1,0 +1,2 @@
+<pre>File.file?('<b>foo.txt</b>')</pre>
+<pre>FileTest.file?('<b>foo.txt</b>')</pre>

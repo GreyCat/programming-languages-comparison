@@ -1,0 +1,2 @@
+<pre>File.directory?('<b>tmp</b>')</pre>
+<pre>FileTest.directory?('<b>tmp</b>')</pre>
