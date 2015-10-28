@@ -1,0 +1,2 @@
+<pre><b>a</b> += <b>b</b>;</pre>
+<pre><b>a</b>.append(<b>b</b>);</pre>
