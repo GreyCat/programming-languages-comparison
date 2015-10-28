@@ -1,0 +1,2 @@
+<pre>[<b>s</b> stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]]</pre>
+<pre>[<b>s</b> stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]]</pre>
