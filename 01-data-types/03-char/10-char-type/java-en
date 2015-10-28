@@ -1,0 +1,5 @@
+<ul>
+<li><code>char</code> (primitive type)</li>
+<li><code>Character</code> (object)</li>
+<li><code>int</code> (used to represent 32-bit Unicode codepoints)</li>
+</ul>
