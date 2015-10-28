@@ -1,0 +1,11 @@
+<pre class="header-file">#ifndef <b>FOO</b>_H
+#define <b>FOO</b>_H
+
+class <b>Foo</b> {
+    <b>...</b>
+}
+
+#endif</pre>
+<pre class="main-file">#include "<b>Foo</b>.h"
+
+<b>...</b></pre>

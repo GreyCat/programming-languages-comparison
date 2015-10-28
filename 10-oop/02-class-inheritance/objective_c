@@ -1,0 +1,6 @@
+<pre class="header-file">@interface <b>Foo</b> : <b>Bar</b>
+{
+    <b>...</b>
+}
+<b>...</b>
+@end</pre>
