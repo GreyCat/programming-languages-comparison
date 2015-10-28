@@ -1,0 +1,4 @@
+<pre>__VERSION__</pre> (gcc, string)
+<pre>__GNUC__</pre> (gcc, int)
+<pre>__GNUC_MINOR__</pre> (gcc, int)
+<pre>__GNUC_PATCHLEVEL__</pre> (gcc, int)
