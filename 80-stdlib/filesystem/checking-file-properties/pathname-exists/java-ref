@@ -1,0 +1,2 @@
+http://docs.oracle.com/javase/7/docs/api/java/io/File.html#exists()
+http://docs.oracle.com/javase/7/docs/api/java/nio/file/Files.html#exists(java.nio.file.Path,%20java.nio.file.LinkOption...)

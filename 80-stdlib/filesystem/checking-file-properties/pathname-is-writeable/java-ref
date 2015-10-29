@@ -1,0 +1,2 @@
+http://docs.oracle.com/javase/7/docs/api/java/io/File.html#canWrite()
+http://docs.oracle.com/javase/7/docs/api/java/nio/file/Files.html#isWritable(java.nio.file.Path)

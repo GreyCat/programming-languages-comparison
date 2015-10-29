@@ -1,0 +1,2 @@
+http://docs.oracle.com/javase/7/docs/api/java/io/File.html#canExecute()
+http://docs.oracle.com/javase/7/docs/api/java/nio/file/Files.html#isExecutable(java.nio.file.Path)
