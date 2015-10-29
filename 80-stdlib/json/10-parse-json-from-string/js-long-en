@@ -1,0 +1,10 @@
+<p>Given that JSON is a subset of normal JavaScript expression syntax,
+one can parse JSON string back into objects by just evaluating it with
+<code>eval</code>. However, this practice opens a huge security risk due
+to execution of arbitrary code supplied in place of expected JSON input
+and, anyway, specialized JSON parser works much faster than using
+<code>eval</code>.</p>
+
+<p>Thus, since 2011 most browser vendors started to supply a
+<code>JSON.parse</code> method and eventually it was accepted as a
+standard in ECMAScript 5.</p>
