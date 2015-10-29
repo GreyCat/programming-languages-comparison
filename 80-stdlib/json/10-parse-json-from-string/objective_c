@@ -1,0 +1,5 @@
+<pre>[NSJSONSerialization
+    JSONObjectWithData: [<b>s</b> dataUsingEncoding:NSUTF8StringEncoding]
+    options: NSJSONReadingMutableContainers
+    error: &e
+]</pre>

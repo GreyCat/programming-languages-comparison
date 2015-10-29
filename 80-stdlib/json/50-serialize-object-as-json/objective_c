@@ -1,0 +1,5 @@
+<pre>[NSJSONSerialization
+    dataWithJSONObject: <b>obj</b>
+    options: 0
+    error: &err
+];</pre>

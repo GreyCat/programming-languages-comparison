@@ -1,0 +1,2 @@
+<pre><div class="for-header">require 'json'</div><b>obj</b>.to_json</pre>
+<pre><div class="for-header">require 'json'</div>JSON.generate(<b>obj</b>)</pre>
