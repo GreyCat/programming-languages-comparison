@@ -1,0 +1,1 @@
+<pre><div class="for-header">using System.Text;</div>StringBuilder <b>buf</b> = new StringBuilder();</pre>
