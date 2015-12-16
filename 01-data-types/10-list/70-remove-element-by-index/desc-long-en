@@ -1,0 +1,3 @@
+All elements past index <b>i</b> shift by one to the left, thus a[i] =
+a[i + 1], a[i + 1] = a[i + 2], etc. Total length of the list decreases by
+1.
