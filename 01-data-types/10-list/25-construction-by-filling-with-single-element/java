@@ -1,0 +1,2 @@
+<pre><b>T</b>[] array = new <b>T</b>[<b>n</b>];
+Arrays.fill(array, <b>v</b>);</pre>
