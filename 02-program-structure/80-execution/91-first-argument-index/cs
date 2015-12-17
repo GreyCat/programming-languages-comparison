@@ -1,0 +1,2 @@
+<pre>args[0]</pre>
+<pre>Environment.GetCommandLineArgs()[1]</pre>

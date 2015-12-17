@@ -1,0 +1,5 @@
+<ul>
+<li><code>string[] args</code> in <code>Main</code></li>
+<li><code>Environment.CommandLine</code></li>
+<li><code>Environment.GetCommandLineArgs()</code></li>
+</ul>
